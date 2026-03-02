@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Search">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge" alt="Azure AI Search">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
